@@ -50,4 +50,5 @@ insert into recargo (id_periodo, id_empleado, horas, concepto, orden)
 values (1, 1, 15, 'FESTIVO_EXTRA_DIURNO', 7);
 commit;
 
+select * from empleado e;
 
